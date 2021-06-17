@@ -1,0 +1,26 @@
+body {
+    background-color: #c0fefc;
+}
+
+hr {
+    border-style: outset;
+    border-color: white;
+}
+
+h1 {
+    color: #1e6f5c;
+}
+
+h3 {
+    color: #008080;
+}
+
+img {
+    height: 190px;
+}
+
+.link {
+    text-align: center;
+    color: royalblue;
+    font-weight: bold;
+}
